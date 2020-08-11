@@ -1,2 +1,2 @@
 # Data-Structures
-Projects from my college freshman data structures course.
+Projects from my data structures studies.
